@@ -501,8 +501,8 @@ footer p {
     }
 
     /* Hide sections you don't want */
-    #skills,
-    #contact {
+    section#skills,
+    section#contact {
         display: none !important;
     }
     
