@@ -499,6 +499,13 @@ footer p {
         border-bottom: 1px solid #e9ecef;
         padding-bottom: 30px;
     }
+
+    /* Hide sections you don't want */
+    #skills,
+    #contact {
+        display: none !important;
+    }
+    
 }
 
 
